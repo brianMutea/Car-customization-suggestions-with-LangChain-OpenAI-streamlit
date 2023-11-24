@@ -1,3 +1,3 @@
 # Car-customization-suggestions-with-LangChain-OpenAI-streamlit
 
-![app screenshot](/home/brian/Documents/PROJECTS/langchain-ll-app/Car-customization-suggestions-with-LangChain-OpenAI-streamlit/Screenshot from 2023-11-24 09-49-47.png)
+![app screenshot](https://github.com/brianMutea/Car-customization-suggestions-with-LangChain-OpenAI-streamlit/blob/main/Screenshot%20from%202023-11-24%2009-49-47.png)
